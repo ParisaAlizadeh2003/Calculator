@@ -28,23 +28,21 @@ bash
 Copy
 Edit
 python main.py
-📁 Project Structure
-bash
-Copy
-Edit
-📂 your-repo-name
-│── 📄 main.py         # Main entry point of the application
-│── 📄 first_component.py  # Component-based UI elements (Entry field & Buttons)
-│── 📄 README.md       # Project documentation
-🎯 Future Improvements
+###📁 Project Structure
+your-repo-name/
+│── main.py               # Main entry point of the application
+│── first_component.py     # Component-based UI elements (Entry field & Buttons)
+│── README.md             # Project documentation
+
+###🎯 Future Improvements
 Add scientific functions (sin, cos, tan, etc.).
 
 Implement a history feature to track calculations.
 
 Enhance UI with better styling.
 
-🤝 Contributing
-Feel free to fork this repository and submit pull requests with improvements!
+###🤝 Contributing
+eel free to fork this repository and submit pull requests with improvements!
 
-📜 License
+###📜 License
 This project is licensed under the MIT License.
