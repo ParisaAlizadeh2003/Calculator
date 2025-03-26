@@ -9,40 +9,38 @@ This is a simple GUI-based calculator built using Python and Tkinter. The projec
 - Modular code structure for easy scalability.
 
 ## 🛠️ Installation & Usage
+
 ### Prerequisites
-- Python 3.x installed on your system.
+- Python **3.x** installed on your system.
 
 ### Steps to Run
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/ParisaAlizadeh2003/Calculator.git
-Navigate to the project folder:
+```bash
+# Clone the repository
+git clone https://github.com/ParisaAlizadeh2003/Calculator.git
 
-bash
-Copy
-Edit
-cd your-repo-name
-Run the main script:
+# Navigate to the project folder
+cd Calculator
 
-bash
-Copy
-Edit
+# Run the main script
 python main.py
-###📁 Project Structure
-your-repo-name/
+```
+
+## 📁 Project Structure
+```
+Calculator/
 │── main.py               # Main entry point of the application
 │── first_component.py     # Component-based UI elements (Entry field & Buttons)
 │── README.md             # Project documentation
+```
 
-###🎯 Future Improvements
-Add scientific functions (sin, cos, tan, etc.).
+## 🎯 Future Improvements
+- Add scientific functions (`sin`, `cos`, `tan`, etc.).
+- Implement a **history feature** to track calculations.
+- Enhance UI with **better styling**.
 
-Implement a history feature to track calculations.
+## 🤝 Contributing
+Contributions are welcome! Feel free to **fork** this repository and submit **pull requests** with improvements.
 
-Enhance UI with better styling.
-
-###🤝 Contributing
-eel free to fork this repository and submit pull requests with improvements!
-
-###📜 License
-This project is licensed under the MIT License.
+## 📜 License
+This project is licensed under the **MIT License**.
+```
