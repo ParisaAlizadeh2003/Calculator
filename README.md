@@ -35,11 +35,6 @@ Calculator/
 └── README.md              # Project documentation
 ```
 
-## 🎯 Future Improvements
-- Add scientific functions (`sin`, `cos`, `tan`, etc.).
-- Implement a **history feature** to track calculations.
-- Enhance UI with **better styling**.
-
 ## 🤝 Contributing
 Contributions are welcome! Feel free to **fork** this repository and submit **pull requests** with improvements.
 
