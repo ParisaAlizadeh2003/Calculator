@@ -28,9 +28,11 @@ python main.py
 ## 📁 Project Structure
 ```
 Calculator/
-│── main.py               # Main entry point of the application
-│── first_component.py     # Component-based UI elements (Entry field & Buttons)
-│── README.md             # Project documentation
+├── Calculator_Button.py   # Manages calculator buttons
+├── Calculator_Entry.py    # Manages the entry field
+├── main.py                # Main entry point of the application
+├── LICENSE                # License file
+└── README.md              # Project documentation
 ```
 
 ## 🎯 Future Improvements
@@ -43,4 +45,3 @@ Contributions are welcome! Feel free to **fork** this repository and submit **pu
 
 ## 📜 License
 This project is licensed under the **MIT License**.
-```
