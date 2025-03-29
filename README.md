@@ -83,7 +83,3 @@ Contributions are welcome! If you have suggestions or improvements, please open 
 
 This project is open-sourced under the MIT License.
 
-## Hashtags
-
-`#Python` `#Tkinter` `#GUI` `#CalculatorApp` `#PythonProject` `#OpenSource` `#PythonDevelopment` `#SoftwareDevelopment` `#Calculator` `#TkinterApp` `#GUIApp` `#PythonCalculator` `#BasicCalculator` `#PythonGUI` `#TkinterCalculator` `#LearnPython` `#PythonForBeginners` `#PythonTutorial` `#PythonCoding` `#CodeWithPython` `#100DaysOfCode` `#CodeNewbie` `#Coding` `#DevCommunity` `#WomenWhoCode`
-```
